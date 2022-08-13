@@ -7,7 +7,7 @@ Text = "Created by shawnjbragdon#0001",
 
 local ActivateSpeedKeybind = Enum.KeyCode.LeftShift
 local FlyingKeybind = Enum.KeyCode.F
-local TeleportKeybind = Enum.KeyCode.T
+local TeleportKeybind = Enum.KeyCode.LeftCtrl
 
 if game.PlaceId == 3351674303 then
 ActivateSpeedKeybind = Enum.KeyCode.E
